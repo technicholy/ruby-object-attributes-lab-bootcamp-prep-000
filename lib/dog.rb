@@ -8,4 +8,5 @@ class Dog
   end
   def name=(name, job)
     @name
+  end
 end
